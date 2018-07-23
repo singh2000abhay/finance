@@ -1,5 +1,7 @@
-# finance
-virtual stock market to buy, sell, quote, and check history of a registered user's stocks using flask, python, and SQLite
+# Finance
+Virtual Stock Market to buy, sell, quote, and check history of a registered user's stocks using Flask, Python, and SQLite
 
-## how to run
-download files, and then type and enter ```flask run``` in the command line once in the same working directory of the files
+## Usage:
+Download files and change working directory to the location of the files
+
+Type in the command line: `flask run`
