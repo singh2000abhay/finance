@@ -1,4 +1,4 @@
-Django==1.11.23
+Django==1.11.28
 Flask==1.0
 Flask-SQLAlchemy==2.1
 Flask-Session==0.3.0
